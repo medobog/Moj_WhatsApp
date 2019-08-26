@@ -12,5 +12,6 @@
     <string name="username">Username</string>
     <string name="groups">Create Group</string>
     <string name="message">Write message</string>
+    <string name="settings">Settings</string>
 
 </resources>
